@@ -11,6 +11,8 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class Index
  */
 @WebServlet("/Index")
+
+// Hello Advaita. How are you ?
 public class Index extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
